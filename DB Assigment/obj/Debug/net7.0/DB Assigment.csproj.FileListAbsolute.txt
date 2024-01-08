@@ -1,0 +1,168 @@
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\appsettings.Development.json
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\appsettings.json
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\DB Assigment.exe
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\DB Assigment.deps.json
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\DB Assigment.runtimeconfig.json
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\DB Assigment.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\DB Assigment.pdb
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\obj\Debug\net7.0\DB Assigment.csproj.AssemblyReference.cache
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\obj\Debug\net7.0\DB Assigment.GeneratedMSBuildEditorConfig.editorconfig
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\obj\Debug\net7.0\DB Assigment.AssemblyInfoInputs.cache
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\obj\Debug\net7.0\DB Assigment.AssemblyInfo.cs
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\obj\Debug\net7.0\DB Assigment.csproj.CoreCompileInputs.cache
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\obj\Debug\net7.0\DB Assigment.MvcApplicationPartsAssemblyInfo.cs
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\obj\Debug\net7.0\DB Assigment.MvcApplicationPartsAssemblyInfo.cache
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\obj\Debug\net7.0\staticwebassets\msbuild.DB Assigment.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\obj\Debug\net7.0\staticwebassets\msbuild.build.DB Assigment.props
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DB Assigment.props
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DB Assigment.props
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\obj\Debug\net7.0\staticwebassets.build.json
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\obj\Debug\net7.0\staticwebassets.development.json
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\obj\Debug\net7.0\scopedcss\bundle\DB Assigment.styles.css
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\obj\Debug\net7.0\DB Assigment.csproj.CopyComplete
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\obj\Debug\net7.0\DB Assigment.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\obj\Debug\net7.0\refint\DB Assigment.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\obj\Debug\net7.0\DB Assigment.pdb
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\obj\Debug\net7.0\DB Assigment.genruntimeconfig.cache
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\obj\Debug\net7.0\ref\DB Assigment.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\Azure.Core.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\Azure.Identity.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\Humanizer.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\System.CodeDom.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\System.Memory.Data.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\Education\C sharp\ASP_WEBAPI\DB Assigment\DB Assigment\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\appsettings.Development.json
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\appsettings.json
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\DB Assigment.exe
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\DB Assigment.deps.json
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\DB Assigment.runtimeconfig.json
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\DB Assigment.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\DB Assigment.pdb
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\Azure.Core.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\Azure.Identity.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\Humanizer.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\System.CodeDom.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\System.Memory.Data.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\obj\Debug\net7.0\DB Assigment.csproj.AssemblyReference.cache
+F:\Files With Comments Explanation\BookStore\DB Assigment\obj\Debug\net7.0\DB Assigment.GeneratedMSBuildEditorConfig.editorconfig
+F:\Files With Comments Explanation\BookStore\DB Assigment\obj\Debug\net7.0\DB Assigment.AssemblyInfoInputs.cache
+F:\Files With Comments Explanation\BookStore\DB Assigment\obj\Debug\net7.0\DB Assigment.AssemblyInfo.cs
+F:\Files With Comments Explanation\BookStore\DB Assigment\obj\Debug\net7.0\DB Assigment.csproj.CoreCompileInputs.cache
+F:\Files With Comments Explanation\BookStore\DB Assigment\obj\Debug\net7.0\DB Assigment.MvcApplicationPartsAssemblyInfo.cs
+F:\Files With Comments Explanation\BookStore\DB Assigment\obj\Debug\net7.0\DB Assigment.MvcApplicationPartsAssemblyInfo.cache
+F:\Files With Comments Explanation\BookStore\DB Assigment\obj\Debug\net7.0\staticwebassets\msbuild.DB Assigment.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Files With Comments Explanation\BookStore\DB Assigment\obj\Debug\net7.0\staticwebassets\msbuild.build.DB Assigment.props
+F:\Files With Comments Explanation\BookStore\DB Assigment\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DB Assigment.props
+F:\Files With Comments Explanation\BookStore\DB Assigment\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DB Assigment.props
+F:\Files With Comments Explanation\BookStore\DB Assigment\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Files With Comments Explanation\BookStore\DB Assigment\obj\Debug\net7.0\staticwebassets.build.json
+F:\Files With Comments Explanation\BookStore\DB Assigment\obj\Debug\net7.0\staticwebassets.development.json
+F:\Files With Comments Explanation\BookStore\DB Assigment\obj\Debug\net7.0\scopedcss\bundle\DB Assigment.styles.css
+F:\Files With Comments Explanation\BookStore\DB Assigment\obj\Debug\net7.0\DB Assigment.csproj.CopyComplete
+F:\Files With Comments Explanation\BookStore\DB Assigment\obj\Debug\net7.0\DB Assigment.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\obj\Debug\net7.0\refint\DB Assigment.dll
+F:\Files With Comments Explanation\BookStore\DB Assigment\obj\Debug\net7.0\DB Assigment.pdb
+F:\Files With Comments Explanation\BookStore\DB Assigment\obj\Debug\net7.0\DB Assigment.genruntimeconfig.cache
+F:\Files With Comments Explanation\BookStore\DB Assigment\obj\Debug\net7.0\ref\DB Assigment.dll

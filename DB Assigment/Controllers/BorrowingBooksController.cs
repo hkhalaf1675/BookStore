@@ -76,6 +76,7 @@ namespace DB_Assigment.Controllers
             return BadRequest(response.Message);
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpGet("book-borrowing-history/{bookCode}")]
         public async Task<IActionResult> GetBookBorrowingHistory(string bookCode)
         {

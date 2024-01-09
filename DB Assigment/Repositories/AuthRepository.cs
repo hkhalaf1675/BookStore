@@ -144,7 +144,7 @@ namespace DB_Assigment.Repositories
             var roles = await userManager.GetRolesAsync(user);
             foreach(var role in roles)
             {
-                claims.Add(new Claim("Role",role.ToString()));
+                claims.Add(new Claim(ClaimTypes.Role,role.ToString()));
             }
 
             // create the security key

@@ -8,7 +8,7 @@ namespace DB_Assigment.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize(Roles = "admin")]
+    [Authorize(Roles = "Admin")]
     public class BooksController : ControllerBase
     {
         private readonly IBookRepository bookRepository;
